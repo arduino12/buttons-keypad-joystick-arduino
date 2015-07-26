@@ -1,0 +1,32 @@
+= Buttons Library for Arduino =
+
+Buttons.h lib - a non-blocking smart input library that supports:
+single-press, multi-press, long-press, pulse-press and de-bouncing.
+
+This code (Buttons.h & Buttons.cpp) defines 3 classes:
+Buttons - the basic class - handles multiple buttons easily.
+Keypad - Inherits from Buttons, handle a matrix buttons keypad easily.
+Joystick - Inherits from Buttons, handle 1 axis or 2 axes analog joystick.
+
+See the the included examples for more information,
+and even take a look at the source files - my favorite option..!
+
+I attached images of all the electronics schematics and modules pinouts!
+
+== License ==
+
+Copyright (c) 2015, A.E. TEC, All right reserved.
+
+This library is free software; you can redistribute it and/or
+modify it under the terms of the GNU Lesser General Public
+License as published by the Free Software Foundation; either
+version 2.1 of the License, or (at your option) any later version.
+
+This library is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+Lesser General Public License for more details.
+
+You should have received a copy of the GNU Lesser General Public
+License along with this library; if not, write to the Free Software
+Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA 02110-1301 USA

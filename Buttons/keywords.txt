@@ -1,0 +1,46 @@
+#######################################
+# Syntax Coloring Map Buttons
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Buttons	KEYWORD1
+Keypad	KEYWORD1
+Joystick	KEYWORD1
+event_t	KEYWORD1
+bitmask_t	KEYWORD1
+buttons_state_t	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+setPressMillis	KEYWORD2
+setEventsFuncs	KEYWORD2
+setLongFuncs	KEYWORD2
+setNextPulseMillis	KEYWORD2
+getPulseCount	KEYWORD2
+getUpMillis	KEYWORD2
+getDownMillis	KEYWORD2
+getButtonsBitmask	KEYWORD2
+getButtonIndex	KEYWORD2
+getState	KEYWORD2
+update		KEYWORD2
+isUp	KEYWORD2
+isDown	KEYWORD2
+isReleased	KEYWORD2
+isPulsed	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+BUTTONS_STATE_UP	LITERAL1
+BUTTONS_STATE_BOUNCE	LITERAL1
+BUTTONS_STATE_SHORT_PRESS	LITERAL1
+BUTTONS_STATE_LONG_PRESS	LITERAL1
+BUTTONS_STATE_SHORT_RELEASE	LITERAL1
+BUTTONS_STATE_LONG_RELEASE	LITERAL1
+BUTTONS_STATE_LONG_PULSE	LITERAL1
+MAKE_KEYMAP	LITERAL1
