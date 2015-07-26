@@ -13,7 +13,7 @@ and even take a look at the source files - my favorite option..!
 
 I attached images of all the electronics schematics and modules pinouts!
 
-All parts can be found here:
+All parts can be found here:<br>
 4x1 keypad: http://www.ebay.com/itm/291235684723
 6x1 keypad: http://www.ebay.com/itm/291235685001
 3x4 keypad: http://www.ebay.com/itm/281366961899
